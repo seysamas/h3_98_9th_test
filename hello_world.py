@@ -1,6 +1,6 @@
 
 
-print('hello word!')
+print('hello word')
 
 print('merge 2b || !2b')
 
