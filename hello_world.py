@@ -1,6 +1,6 @@
 
 
-print('hello world!')
+print('hello word!')
 
 print('how are you git learners? :)')
 
